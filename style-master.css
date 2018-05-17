@@ -1,4 +1,15 @@
-label
-{
-color:red;
+
+.cmtapp_DialogImage1 {
+    text-align: center;
+    opacity: 0.4;
+    position: absolute;
+    bottom: 120px;
+    right: 410px;
+    width: 180px;
+    height: 30px;
+    color: white;
+    font-size: 27px;
+    transform: rotate(-40deg);
+    border-style: dotted;
+    background-color: red;
 }
